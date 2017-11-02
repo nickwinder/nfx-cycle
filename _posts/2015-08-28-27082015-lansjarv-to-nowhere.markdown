@@ -18,6 +18,6 @@ AnotherÂ uneventful transition day. I had to get far enough to get to LuleÃ¥ 
 The other real highlight was meeting another tourer at last. I finally turned off the E10 road!!! I've been on it since Narvik. And as soon as I did, I found another biker. He was a Estonian guy with half decent English. Thinking back now, I should have asked where from/details to get a free night there. Oppps. 
 
 
-[![image](/assets/images/1014.jpg)](/assets/images/1014.jpg)
+[![image]({{ base }}/assets/images/1014.jpg)]({{ base }}/assets/images/1014.jpg)
 
 [sgpx gpx="/gpxFiles/2015-08-27_08-58-06.gpx"]

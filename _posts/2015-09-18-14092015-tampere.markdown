@@ -17,19 +17,19 @@ Today I spent the day in Tampere, an attempted rest day.
 
 Having looked around the city, I'm pretty impressed. Its a really nice city with a industrial history. With the nickname the "Manchester of Finland" and then also mixing that with a quote for Alan partridge "ermmmm cotton and guns" you get the gist what the cities about. Minus the guns.
 
-[![image](/assets/images/1047.jpg)](/assets/images/1047.jpg)
+[![image]({{ base }}/assets/images/1047.jpg)]({{ base }}/assets/images/1047.jpg)
 
 
 
 It was certainly a surprise to see so much brickwork in Finland, these buildings were mainly focused around the old factory areas wedged between 2 huge lakes that it is situated on, and the whole reason why the city is there. Sadly all the museums were closed as it was monday, so I can't tell you too much more about the place apart from.
 
-[![image](/assets/images/1048.jpg)](/assets/images/1048.jpg)
+[![image]({{ base }}/assets/images/1048.jpg)]({{ base }}/assets/images/1048.jpg)
 
 
 
 I made it over to a preservation area which is set slightly higher than the city. Right at the top of this hill is a cafe and observatory tower giving great views over the whole city and the surrounding landscape. I was told by many locals about the doughnuts that this cafe sold, and now I can understand why,Â  not bad. Not bad at all.
 
-[![image](/assets/images/1049.jpg)](/assets/images/1049.jpg)
+[![image]({{ base }}/assets/images/1049.jpg)]({{ base }}/assets/images/1049.jpg)
 
 
 

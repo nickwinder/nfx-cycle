@@ -17,7 +17,7 @@ I headed for the nearest town to go and find some indoor space I could occupy fo
 
 Other than that, all I wanted was a quiet Laavu for tonight. I tried just outside a village just south of Kuokola, but it looked a bit unloved. So I kept going for the next one which is situated right next to the Kymiyoki river. It's quiet, with only one farm in sight, I'll have to get inventive with the tent and I'm sure I'll have some pictures for you in the morning. 
 
-[![image](/assets/images/1059.jpg)](/assets/images/1059.jpg)
+[![image]({{ base }}/assets/images/1059.jpg)]({{ base }}/assets/images/1059.jpg)
 
 
 

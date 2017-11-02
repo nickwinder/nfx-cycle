@@ -15,7 +15,7 @@ Let's start by saying, it was bitterly cold this morning! It must have been belo
 
 When I got out the tent, it did look beautiful and I tried to remind myself this is the reason why I am here. The sun had just come up and was reflecting off the frost in the field. But there was no tricking my brain. My fingers were numb until 11am this morning, making it difficult to make breakfast. It doesn't look like its going to let up for the next two weeks. 
 
-[![image](/assets/images/1071.jpg)](/assets/images/1071.jpg)
+[![image]({{ base }}/assets/images/1071.jpg)]({{ base }}/assets/images/1071.jpg)
 
 
 
@@ -23,7 +23,7 @@ I hit the Latvian boarder fairly early, which felt like a mini achievement. I cr
 
 Then general route apart from one road was fairly good, the roads were kept in good condition and there wasn't a lot of heavy traffic.
 
-[![image](/assets/images/1072.jpg)](/assets/images/1072.jpg)
+[![image]({{ base }}/assets/images/1072.jpg)]({{ base }}/assets/images/1072.jpg)
 
 
 

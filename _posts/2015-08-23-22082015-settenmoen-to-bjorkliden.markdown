@@ -16,13 +16,13 @@ This morning seems like so long ago. It was a long day on the bike. With 1300m o
 So I started out the day deciding that I was going to do 2 short days followed by a longer one into Kiruna. So I set off at a leisurely pace, and I hit a few hills. It was nice, it made a change to the rolling sea roads. It made for some rewarding bike and amazing views drop up and over Narvik. 
 So you knew there was going to be a but.... I got to the campsite and the women said they don't take tents. Apparently thats normal in Norway? She said the next campsite is 40km over Sweden way. I should have stopped there and called it a day, but I got it in my head that I want that shower and a normal toilet. So I went for it. 
 
-[![image](/assets/images/1007.jpg)](/assets/images/1007.jpg)
+[![image]({{ base }}/assets/images/1007.jpg)]({{ base }}/assets/images/1007.jpg)
 
 
 
 There were bigggg hills (OK I can call them mountains now. I assume it would be like normal moutains and you go up and come down the other side, that's not the case here. There's an amazing kinda undulating plateau at the top that goes on for ever. And the landscape changes with it. From smoothly carved rock, to sharp river shattered rock. 
 
-[![image](/assets/images/1008.jpg)](/assets/images/1008.jpg)
+[![image]({{ base }}/assets/images/1008.jpg)]({{ base }}/assets/images/1008.jpg)
 
 
 

@@ -18,7 +18,7 @@ I have to praise the Finish for there cycle paths around the towns and villages.
 Most of the day I've been following route 4 but the eurovelo 10 guide keeps on throwing me down smaller roads just off the main road. Which is great because its super quiet and you get to weave all over the road. I did have to play miss a mole all day though. Similar to whack a mole, but you have to miss the holes with your wheel. The roads where mostly compressed mud/sand/gravel. Most were in good enough condition though. 
 
 
-[![image](/assets/images/1020.jpg)](/assets/images/1020.jpg)
+[![image]({{ base }}/assets/images/1020.jpg)]({{ base }}/assets/images/1020.jpg)
 
 
 
@@ -27,7 +27,7 @@ So I was going to stop after 70km, but it was only 14:00 and I was just enjoying
 Also I made the best bike coffee holder in the world today. All you need is a rack and a rear light clip. It'll only work for those small cardboard cups, but still, the excitement!
 
 
-[![image](/assets/images/1021.jpg)](/assets/images/1021.jpg)
+[![image]({{ base }}/assets/images/1021.jpg)]({{ base }}/assets/images/1021.jpg)
 
 
 

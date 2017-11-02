@@ -17,14 +17,14 @@ It was another long one today, I wanted to cross the boarder because I had no Sw
 
 20km of the ride was on a gravel road, which made it hard going, but it was really nice and peaceful. 
 
-[![image](/assets/images/1018.jpg)](/assets/images/1018.jpg)
+[![image]({{ base }}/assets/images/1018.jpg)]({{ base }}/assets/images/1018.jpg)
 
 
 
 As I said at the start, I didn't even know I'd crossed the boarder. One side there was IKEA (no joke) the other side I can only assume the Ikea's arch nemesis. I should have guessed really. 
 So now for rest. I really need it, my legs are starting to give out, as well as my knees and one wrist. I think I need a bath is some anti inflammatory liquid. 
 
-[![image](/assets/images/1019.jpg)](/assets/images/1019.jpg)
+[![image]({{ base }}/assets/images/1019.jpg)]({{ base }}/assets/images/1019.jpg)
 
 
 

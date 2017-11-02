@@ -14,7 +14,7 @@ categories:
 Yet again, I woke up to nice sunny weather. It really is amazing how lucky I've been with the sun shine and my beautiful tan lines are a tell tail sign for it. I didn't stick around too long, because I wanted to get to the next WS (warm showers). I'd be stay 2 nights at the next place, so a nice rest will be deserved after a long days ride. 
 
 
-[![image](/assets/images/1026.jpg)](/assets/images/1026.jpg)
+[![image]({{ base }}/assets/images/1026.jpg)]({{ base }}/assets/images/1026.jpg)
 
 
 
@@ -27,5 +27,5 @@ We got back to the house and they've been great hosts. I feel like I should be h
 Ant fight.......
 
 
-[![image](/assets/images/1027.jpg)](/assets/images/1027.jpg)
+[![image]({{ base }}/assets/images/1027.jpg)]({{ base }}/assets/images/1027.jpg)
 [sgpx gpx="/gpxFiles/2015-09-04_09-06-00.gpx"]

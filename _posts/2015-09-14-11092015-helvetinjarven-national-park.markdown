@@ -13,7 +13,7 @@ categories:
 
 Today was my first running day. I decided before I set out on this trip I wanted to do a bit of trail running in different places. But before now I was a little worried my legs were too fatigued to run.
 
-[![image](/assets/images/1036.jpg)](/assets/images/1036.jpg)
+[![image]({{ base }}/assets/images/1036.jpg)]({{ base }}/assets/images/1036.jpg)
 
 
 
@@ -21,11 +21,11 @@ Judging by the trail getting into to this camping spot I knew it was going to be
 
 I only did 11km, but it felt more like 20km. Running back on the fire track was even tough. So I now know that my legs were no were near recovered. Plus its hard running on the trails in Finland. I'll let the pictures speak for themselves.
 
-[![image](/assets/images/1037.jpg)](/assets/images/1037.jpg)
+[![image]({{ base }}/assets/images/1037.jpg)]({{ base }}/assets/images/1037.jpg)
 
 
 
-[![image](/assets/images/1038.jpg)](/assets/images/1038.jpg)
+[![image]({{ base }}/assets/images/1038.jpg)]({{ base }}/assets/images/1038.jpg)
 
 
 

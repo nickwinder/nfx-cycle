@@ -19,9 +19,9 @@ The ride was not too far today, so I took a super long stop in AlajÃ¤rvi, it w
 The best part of the day was the camping spot. I hunted around a lot for this one. And in the end, some helpful local maps at the side of the road directed me to a fire pit/bunk house. The bunk house had been turned into a sauna, surprise surprise. But the fire pit + more was there. So I decided to have a small fire tonight and make use of the Finnish wood. 
 
 
-[![image](/assets/images/1032.jpg)](/assets/images/1032.jpg)
+[![image]({{ base }}/assets/images/1032.jpg)]({{ base }}/assets/images/1032.jpg)
 
 
 
-[![image](/assets/images/1033.jpg)](/assets/images/1033.jpg)
+[![image]({{ base }}/assets/images/1033.jpg)]({{ base }}/assets/images/1033.jpg)
 [sgpx gpx="/gpxFiles/2015-09-08_09-36-05.gpx"]

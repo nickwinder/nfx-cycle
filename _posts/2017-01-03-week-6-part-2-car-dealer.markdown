@@ -20,5 +20,5 @@ We also went to a kiwi house party with a older couple that Ashley met in Queens
 We rang in the new year in style! Setting the alarm for 11:59pm, saying happy new year and falling back asleep. This was probably due to the bottle wine we treated ourselves to in the afternoon though.
 
 Other than that we have been fairy quiet, exploring Christchurch a little. Found one great coffee place.
-![Image](/assets/images/46.jpg)
-![Image](/assets/images/47.jpg)
+![Image]({{ base }}/assets/images/46.jpg)
+![Image]({{ base }}/assets/images/47.jpg)

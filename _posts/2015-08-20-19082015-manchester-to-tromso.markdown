@@ -15,7 +15,7 @@ I set out from Ashley's flat in Manchester at 9am. Riding to the airport has got
 A pretty emotional goodbye was quickly replaced with the thoughts of 'Jesus this bike is heavy'. It seems the rear aluminium rack is flexing a bit. So if you sway the bike at all, you get a fair wobble on. Hopefully a bit of weight balancing could sort this. I'm guessing the 5 books ain't helping. :) 
 I used Google navigation to get there, which is a bit of a luxury compared to what I'm facing, but there's not too many roads in Scandinavian is there?
 
-[![image](/assets/images/1000.jpg)](/assets/images/1000.jpg)
+[![image]({{ base }}/assets/images/1000.jpg)]({{ base }}/assets/images/1000.jpg)
 
 
 
@@ -25,11 +25,11 @@ We were delayed getting into olso, which meant full on panic stations. Apparentl
 
 I got into Tromso and straight away the mountains were there. It looks great, and even Tromso is a little hilly! So I set too and started sort my bike and things, only to find it happened. My bike got damaged. It was only the plastic smashed off the hoods, but still annoying. Luckily it all still worked so I could ride out and get to the airbnb place I was staying. 
 
-[![image](/assets/images/1001.jpg)](/assets/images/1001.jpg)
+[![image]({{ base }}/assets/images/1001.jpg)]({{ base }}/assets/images/1001.jpg)
 
 
 
-[![image](/assets/images/1002.jpg)](/assets/images/1002.jpg)
+[![image]({{ base }}/assets/images/1002.jpg)]({{ base }}/assets/images/1002.jpg)
 
 
 

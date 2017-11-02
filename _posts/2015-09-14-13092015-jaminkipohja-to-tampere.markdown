@@ -17,7 +17,7 @@ I road along what felt like a coast line, but really was a super big lake all th
 
 As I got nearer to Tampere I entered a super big park area just to the north east of the city. Mostly used for cross country skiing in the winter, it made for some nice biking trails and probably running trails. When I got near the end of this and into the city I started chatting to a guy riding past me. In the end he ended up taking me for a coffee and waffle in the old town area. It was a really nice gesture and a interesting chat. Anyway just as we were riding to the old town a big 'crash bang wallop' was heard. My rack bolt and snapped straight through, leaving my rack wedged into my brake disc. We managed to get some tie wraps on there to wedge it away from the disc, so at least I could ride carefully. But that's something I need to sort tomorrow. 
 
-[![image](/assets/images/1041.jpg)](/assets/images/1041.jpg)
+[![image]({{ base }}/assets/images/1041.jpg)]({{ base }}/assets/images/1041.jpg)
 
 
 

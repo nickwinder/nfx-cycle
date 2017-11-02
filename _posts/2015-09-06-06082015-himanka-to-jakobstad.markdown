@@ -17,11 +17,11 @@ For the rest day I was still with the WS host. His wife cooked up some porridge 
 
 For today he decided to take me on his little boat out to sea and around the islands. It was a super great experience and I got to drive for a bit. Basically watch out for rocks. We went out to two little wooden cottages, which are maintained by the forestry agency. They are unbelievably good, they have a little wood burning stove , 2 bunk beds and all the wood you could ever need. You can see people use them and keep them in very good condition. I really wish I had time to stay a night, as the view out to sea would be great at sun set. 
 
-[![image](/assets/images/1028.jpg)](/assets/images/1028.jpg)
+[![image]({{ base }}/assets/images/1028.jpg)]({{ base }}/assets/images/1028.jpg)
 
 
 
-[![image](/assets/images/1029.jpg)](/assets/images/1029.jpg)
+[![image]({{ base }}/assets/images/1029.jpg)]({{ base }}/assets/images/1029.jpg)
 
 
 
@@ -31,7 +31,7 @@ I set off today at around 10, straight away I could tell the rest helped so much
 
 The most successful thing today was purchasing dinner. I jumped into a little cafeteria next to the petrol station and start to copy the person in front of me. Bit of salad, cottage cheese, pastry things and egg. Grabbed a coffee cup and head to the till. It came up as â‚¬4, and I was like 'ha what about the rest' , but no all I had to pay for was the pastry and coffee. I couldn't believe my luck and ran away quickly. I really need to find one of these places again and work out what I can get away with. 
 
-[![image](/assets/images/1030.jpg)](/assets/images/1030.jpg)
+[![image]({{ base }}/assets/images/1030.jpg)]({{ base }}/assets/images/1030.jpg)
 
 
 

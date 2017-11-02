@@ -19,7 +19,7 @@ It took a fair while to get out of Tallinn, there is lots of residential areas t
 
 The landscape is very flat here with a mix of forests and farm land. The forests have been left fairly untouched, I haven't seen much signs of logging at all. Which does mean its going to be hard to find a camping spot in the woods as they are so overgrown. 
 
-[![image](/assets/images/1068.jpg)](/assets/images/1068.jpg)
+[![image]({{ base }}/assets/images/1068.jpg)]({{ base }}/assets/images/1068.jpg)
 
 
 

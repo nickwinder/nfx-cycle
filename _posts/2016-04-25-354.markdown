@@ -14,10 +14,10 @@ categories:
 We finished our stay in Arrowtown this week, hoping that the cleaning we did was good enough and they do not notice the oil drips from the car on the driveway. One thing that we can be certain of is that we did not kill the cat. Although the moaning and wining at 1:30am one morning nearly resulted in that. 
 
 It is Autumn time right here now and the beautiful trees of Arrowtown makes a amazing back drop. We headed for a little hike up the hill to look over the valley, which provided views of the two ski resorts and far into the mountains. Unfortunately my foot is still a little sore, so we haven't been too much active stuff, but I'm now seeing the podiatrist so hopefully I can get it sorted quickly. 
-![Image](/assets/images/9.jpg)
+![Image]({{ base }}/assets/images/9.jpg)
 
 Our next piece of news comes in form of a building! After 3 months we are finally inside. We found a nice quiet shared house for a half decent price, which is walking distance from work and Queenstown through a great little woodland trail.  So now we are just getting settled in and trying to get used the space and indoors again. We may have to do a few nights in the camper just remind ours selves what it is like.
-![Image](/assets/images/10.jpg)
+![Image]({{ base }}/assets/images/10.jpg)
 
 Works going pretty well, and now I am starting to understand running shoes. None of them I can afford, but that's the reason for working at a running shop. I'm just itching to get out with the running community, especially as their 10K series is coming up.
 
