@@ -1,1 +1,2 @@
-<link rel="stylesheet" href="{% asset_path '{{ include.path }}' %}">
+{% include base.html %}
+<link rel="stylesheet" href="{{base}}{% asset_path '{{ include.path }}' %}">
