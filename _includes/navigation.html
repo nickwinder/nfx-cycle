@@ -1,5 +1,5 @@
 <nav class="header-nav {% if site.scrollappear_enabled %}scrollappear{% endif %}">
-  <a href="{{ '/' | relative_url }}" class="header-logo" title="{{ site.name }}">{{ site.name }}</a>
+  <a href="{{ base }}{{ '/' | relative_url }}" class="header-logo" title="{{ site.name }}">{{ site.name }}</a>
   <ul class="header-links">
     {% if site.about_enabled == true %}
       <li>
@@ -164,7 +164,7 @@
     {% endif %}
     {% if site.rss_enabled == true %}
       <li>
-        <a href="{{ 'feed.xml' | relative_url }}" rel="noreferrer noopener" target="_blank" title="RSS">
+        <a href="{{ base }}{{ 'feed.xml' | relative_url }}" rel="noreferrer noopener" target="_blank" title="RSS">
           <svg class="icon-rss"><use href="{{ base }}{% asset_path rss.svg %}#icon-rss" xlink:href="{{ base }}{% asset_path rss.svg %}#icon-rss"></use></svg>
         </a>
       </li>
