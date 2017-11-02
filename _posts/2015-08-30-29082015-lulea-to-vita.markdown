@@ -16,9 +16,9 @@ I popped out early morning to go and pick stuff up for pancakes. I thought I'd b
 Me and the other guest also went up to Gammelstad early morning. It's a small church town dating from the 1500's which is a world heritage site. Most of houses in the little town were used as stop over when visiting the church from far away place. So they were all fairly small and look super Scandinavian. Interesting place.
 
 
-[![image]({{ base }}/assets/images/1016.jpg)]({{ base }}/assets/images/1016.jpg)
+[![image]({{ site.url }}/assets/images/1016.jpg)]({{ site.url }}/assets/images/1016.jpg)
 
-[![image]({{ base }}/assets/images/1017.jpg)]({{ base }}/assets/images/1017.jpg)
+[![image]({{ site.url }}/assets/images/1017.jpg)]({{ site.url }}/assets/images/1017.jpg)
 
 This all meant I set off on my bike pretty late, but I wanted to get some where at least. I had to retrace my route to get further over to the Finish boarder. It got pretty late so I was looking around for a place to camp, it seemed pretty limited because all of the rain we'd had so I headed a little higher and off the road slightly. Gotta say, its not my best pick, all I can here is tree logging vehicles near by and every now and then I can hear bang bang bang, of guns. So I hope the hunt doesn't come too near me. 
 

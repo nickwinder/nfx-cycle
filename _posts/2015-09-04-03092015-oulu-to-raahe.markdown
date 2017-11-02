@@ -14,7 +14,7 @@ categories:
 Yesterday, I decided to take a day off in Oulu, do a little sight seeing and have a rest in general. It turned out to be pretty good. I rode around the city a bit, went for a coffee and went to the Oulu history museum. So now I know a little more about the Finish history.
 
 
-[![image]({{ base }}/assets/images/1023.jpg)]({{ base }}/assets/images/1023.jpg)
+[![image]({{ site.url }}/assets/images/1023.jpg)]({{ site.url }}/assets/images/1023.jpg)
 
 
 
@@ -24,13 +24,13 @@ Back to today. I set out a little later than normal, but I knew I had to do a fa
 For some reason I was not feeling it, feeling slightly under the weather and at 50km, I wanted to stop. I had no choice though, 100km it had to be. 
 
 
-[![image]({{ base }}/assets/images/1024.jpg)]({{ base }}/assets/images/1024.jpg)
+[![image]({{ site.url }}/assets/images/1024.jpg)]({{ site.url }}/assets/images/1024.jpg)
 
 
 
 I finally made it to the area I wanted to be at, and started looking for places to stop. I'd spotted a few fire shelters on the map, so I headed for these. A great place to stop, but there seems to be a lot of noisy muppets around. Bezzing around on stupid mopeds, or there little boat at 10:30pm. A bit disappointed to say the least. Arh well. Should be a good rest again tomorrow.
 
 
-[![image]({{ base }}/assets/images/1025.jpg)]({{ base }}/assets/images/1025.jpg)
+[![image]({{ site.url }}/assets/images/1025.jpg)]({{ site.url }}/assets/images/1025.jpg)
 
 [sgpx gpx="/gpxFiles/2015-09-03_09-50-25.gpx"]

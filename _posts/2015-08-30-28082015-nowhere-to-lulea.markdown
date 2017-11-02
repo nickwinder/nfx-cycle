@@ -14,7 +14,7 @@ categories:
 So we knew that the sun had to end at some point. And today was that day. I found out that when it rains, it rains...... I've seen better weather in the lake district. 
 
 
-[![image]({{ base }}/assets/images/1015.jpg)]({{ base }}/assets/images/1015.jpg)
+[![image]({{ site.url }}/assets/images/1015.jpg)]({{ site.url }}/assets/images/1015.jpg)
 
 
 

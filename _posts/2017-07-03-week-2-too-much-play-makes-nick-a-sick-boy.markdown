@@ -15,9 +15,9 @@ categories:
 We started out the traveling from the Grand Canyon up into Utah. The heat of day didn't really let off at all, even though we were gaining elevation again. At one point this week we were camping at 3000 meters and the lungs were the only indication of this. First we headed towards Bryce Canyon, which I didn't know too much about and hadn't even seen any pictures.  The night before we camped just out of the national park at Red Canyon,  aptly named due to the deep red sandstone walls surrounding us.  But to the list of worrisome animals, we added scorpions and rattle snakes, all part of the fun of camping I suppose.
 
 We had an early wake up to get to Bryce Canyon. We'd been warned the day before that it gets very busy and it becomes hard to find a parking space. By 9am, we were out the car and walking towards the canyon. The view of the unique landscape was unreal, it was like one big spiky hair brush, the trail lead down into the canyon and through the stalactite like formations.  Again my words are doing it any justice so I will just let the pictures do the speaking.
-![Image]({{ base }}/assets/images/137.jpg)
-![Image]({{ base }}/assets/images/138.jpg)
-![Image]({{ base }}/assets/images/139.jpg)
+![Image]({{ site.url }}/assets/images/137.jpg)
+![Image]({{ site.url }}/assets/images/138.jpg)
+![Image]({{ site.url }}/assets/images/139.jpg)
 
 We'd finished by lunch time so we headed out of the area and had a little internet catch up in a sleepy little town called Panguitch. This is when we found out that there was forest fires nearby so we had to completely change out plans. We didn't really like the prospect of camping out in an area with active forest fires. We were heading across towards Cedar city where we booked an Airbnb for a couple of days, just to get out the heat and have a bit of a rest. We'd been on the move for a week and a half but it felt like so much more.
 

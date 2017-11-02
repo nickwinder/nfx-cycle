@@ -18,7 +18,7 @@ If there was any thought in my mind thinking that I could carry on, it was wiped
 The ride wasn't so long today, and it felt like RÄ«ga was the finish line for me, just longing for it to get closer and closer. But I kept telling myself to enjoy the day.
 
 
-[![image]({{ base }}/assets/images/1073.jpg)]({{ base }}/assets/images/1073.jpg)
+[![image]({{ site.url }}/assets/images/1073.jpg)]({{ site.url }}/assets/images/1073.jpg)
 
 
 
@@ -27,7 +27,7 @@ Enjoy the day ....... So, if you ever questioned why I'm not a big fan of dogs, 
 Other than that the frost gave some beautiful views, and Ashley if this is what people mean when they say autumn (fall) is a beautiful time of year, I take my words back. 
 
 
-[![image]({{ base }}/assets/images/1074.jpg)]({{ base }}/assets/images/1074.jpg)
+[![image]({{ site.url }}/assets/images/1074.jpg)]({{ site.url }}/assets/images/1074.jpg)
 
 
 

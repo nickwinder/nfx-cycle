@@ -20,6 +20,6 @@ So I had a little to eat and set out at 12:30 at a nice slow pace. It was plain 
 I got 45k in, which is where I saw a parking icon on the map that may have been good enough to sleep at. But it turned out to be one of the worst I've seen here. Like a truckers stop, unlike the caravan stops I'd seen before. So carried on to the next one which looks OK. By the side of a river with a few caravans around, so this will do before the next town tomorrow. 
 
 
-[![image]({{ base }}/assets/images/1009.jpg)]({{ base }}/assets/images/1009.jpg)
+[![image]({{ site.url }}/assets/images/1009.jpg)]({{ site.url }}/assets/images/1009.jpg)
 
 [sgpx gpx="/gpxFiles/2015-08-24_12-51-03.gpx"]

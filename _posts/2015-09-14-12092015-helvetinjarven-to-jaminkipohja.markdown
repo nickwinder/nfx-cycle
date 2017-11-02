@@ -19,12 +19,12 @@ A couple of things made me laugh today. One being the woodpeckers. First, I didn
 I'm now at the other fire hut, which was a trek to get to. I had to get off my bike and walk up a hill for the first time this trip and then scramble through a few fields to get to this one. Not sure where I'm going to put my tent, but its nice and quiet again. Apart from Mr woodpeckers mates are here. I bet they are planning something. 
 
 
-[![image]({{ base }}/assets/images/1039.jpg)]({{ base }}/assets/images/1039.jpg)
+[![image]({{ site.url }}/assets/images/1039.jpg)]({{ site.url }}/assets/images/1039.jpg)
 
 
 
 Also, seen as a few of you haven't seen my face in a while. This is what if looks like. 
 
 
-[![image]({{ base }}/assets/images/1040.jpg)]({{ base }}/assets/images/1040.jpg)
+[![image]({{ site.url }}/assets/images/1040.jpg)]({{ site.url }}/assets/images/1040.jpg)
 [sgpx gpx="/gpxFiles/2015-09-12_11-14-43.gpx"]

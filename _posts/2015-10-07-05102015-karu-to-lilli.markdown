@@ -16,14 +16,14 @@ On a mission to do a good distance today, I set off as early possible. I had to 
 I feel today was more like the first day riding in real Estonia and as it happens, my last. During the beginning the landscape was some of the flattest I'd ever seen, mainly lined with farms along the way. 
 
 
-[![image]({{ base }}/assets/images/1069.jpg)]({{ base }}/assets/images/1069.jpg)
+[![image]({{ site.url }}/assets/images/1069.jpg)]({{ site.url }}/assets/images/1069.jpg)
 
 
 
 Even heading through the smaller towns and villages you can still see the horrible concrete soviet buildings, which certainly ruin the view. There is a little more history here though, with a few ruins scattered here and there, some sites dating back to the 1200's. 
 
 
-[![image]({{ base }}/assets/images/1070.jpg)]({{ base }}/assets/images/1070.jpg)
+[![image]({{ site.url }}/assets/images/1070.jpg)]({{ site.url }}/assets/images/1070.jpg)
 
 
 

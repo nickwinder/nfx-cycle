@@ -23,7 +23,7 @@ I can see a theme to my blogs developing, feel free to skip to the maps. :)
 
 As for camp, I was looking at a campsite again, but I went passed and had a little look. But it seemed rather unappealing. So I carried on, and guess what, it paid off again. I found a beautiful spot by a large river. It seems like a few people use this spot, but I'm here first! I've just had a good wash in the river, but it's so hot I'm sweating again already.
 
-[![image]({{ base }}/assets/images/1006.jpg)]({{ base }}/assets/images/1006.jpg)
+[![image]({{ site.url }}/assets/images/1006.jpg)]({{ site.url }}/assets/images/1006.jpg)
 
 
 [sgpx gpx="/gpxFiles/2015-08-21_07-42-02.gpx"]

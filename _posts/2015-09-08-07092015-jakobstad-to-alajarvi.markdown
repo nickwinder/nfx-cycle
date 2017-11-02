@@ -20,5 +20,5 @@ I've been surprised still how populated Finland has been. As I've been traveling
 
 As its busy around here, I've really had to cramp my tent in tonight. Maybe a even smaller tent is needed. :)
 
-[![image]({{ base }}/assets/images/1031.jpg)]({{ base }}/assets/images/1031.jpg)
+[![image]({{ site.url }}/assets/images/1031.jpg)]({{ site.url }}/assets/images/1031.jpg)
 [sgpx gpx="/gpxFiles/2015-09-07_07-39-39.gpx"]

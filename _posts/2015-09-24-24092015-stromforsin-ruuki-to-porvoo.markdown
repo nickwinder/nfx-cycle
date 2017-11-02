@@ -21,6 +21,6 @@ I've just had a great meal at the WS, and we are just waiting on two more cyclis
 
 Just in case the first sign wasn't clear enough. 
 
-[![image]({{ base }}/assets/images/1067.jpg)]({{ base }}/assets/images/1067.jpg)
+[![image]({{ site.url }}/assets/images/1067.jpg)]({{ site.url }}/assets/images/1067.jpg)
 
 [sgpx gpx="/gpxFiles/2015-09-24_08-24-41.gpx"]

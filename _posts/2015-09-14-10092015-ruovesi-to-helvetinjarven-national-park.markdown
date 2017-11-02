@@ -20,7 +20,7 @@ This means I cannot rely on having battery all the time so I'm having to plan al
 
 I set off for the spot I wanted to call base camp for a few nights.Â  Only around 15km away, but down some really beaten up tracks. In the end it turned into a footpath, which was OK. But then it turn into a obstacle course. So I had to do the last 500 metres in rounds. Take all my bags down then carry the bike down. Safe to say, I'm not getting out of here in a rush. 
 
-[![image]({{ base }}/assets/images/1035.jpg)]({{ base }}/assets/images/1035.jpg)
+[![image]({{ site.url }}/assets/images/1035.jpg)]({{ site.url }}/assets/images/1035.jpg)
 
 
 

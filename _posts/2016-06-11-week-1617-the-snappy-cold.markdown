@@ -17,7 +17,7 @@ Not too much to report from the last two weeks. I managed to acquire 3 snowboard
 We went to Banff film festival, which as always is enthralling and inspiring. It introduced me to a ..... sport? .... touring style ... I'd never seen before. Paraglide touring. These guys only travelled via paraglides, covering 100km a day in the air, travelling from thermal to thermal. Pretty amazing way of seeing the landscape but not something you'll catch me doing too quick.
 
 Other than that, here are some funny pictures. 
-![Image]({{ base }}/assets/images/23.jpg)
-![Image]({{ base }}/assets/images/24.jpg)
+![Image]({{ site.url }}/assets/images/23.jpg)
+![Image]({{ site.url }}/assets/images/24.jpg)
 
 Next week is snowboarding week! Can't wait. 

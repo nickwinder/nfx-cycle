@@ -16,19 +16,19 @@ I woke up bright and early and felt great. However much I attempted to get back 
 The day started out pretty miserable and cold, so I just hung around Vaala for a bit. Found the only kahvila (cafe) that was open and pretty much did nothing. 
 
 In the end it was late enough to get on the move. I was heading for a place called Verla. Here they have the UNESCO site I had been writing about before. This was a short 15km ride from Jaala. 
-[![image]({{ base }}/assets/images/1056.jpg)]({{ base }}/assets/images/1056.jpg) 
+[![image]({{ site.url }}/assets/images/1056.jpg)]({{ site.url }}/assets/images/1056.jpg) 
 
 As I approached the world heritage site all I saw was a car park. I was hoping for a bit more than this, and soon I found I was looking in the wrong place. Just over the road was builds for the late 1800's. I headed over to see what was going on but first the toilets. One thing that can be said for this site, good toilets. Ample room for having a good wash and even plug sockets in there so I could charge my devices. 
 
 I went to the information point and the girls was trying to get me going on the tour, even though it was in Finnish. But annoyingly I could walk round the old factory on my own, so I didn't have much of a choice. I played hard ball with her, telling her I was technically unemployed (she asked this question) and homeless (I added this one for good measure) , finally she decided I could go into the first room and see some of the machinery and see the video about the place in English. 
 
 So I bet you're wondering what the place actually is. They called it a groundwood factory, I wasn't entirely sure what this meant. But it seemed they were pulping wood and then compressing and heating it again to create a hybrid paper/wood material. Mostly used for book bindings and flimsy boxes, I must say I have seen it in a few places, it seems like a chip board alterative. This small village produced 2000 tonnes of the stuff in a year and was operational until 1960's. 
-[![image]({{ base }}/assets/images/1057.jpg)]({{ base }}/assets/images/1057.jpg) 
+[![image]({{ site.url }}/assets/images/1057.jpg)]({{ site.url }}/assets/images/1057.jpg) 
 
 
 
 I had a bite to eat there and sat out in the sun for quite a while. It was a nice little site and was pretty quiet because it was the end of the season. 
 
 After this I headed off for a laavu I'd seen a bit further south. I got to the location, but it seemed to be part of private ski hut. Seen as it wasn't such bad weather I didn't mind too much and I found a path down to a small public beach by the lake. I hung around here for a bit and decided if was quiet enough to stop here the night. There was a beautiful sunset, and some really interesting cloud formations. 
-[![image]({{ base }}/assets/images/1058.jpg)]({{ base }}/assets/images/1058.jpg)
+[![image]({{ site.url }}/assets/images/1058.jpg)]({{ site.url }}/assets/images/1058.jpg)
 [sgpx gpx="/gpxFiles/2015-09-20_08-25-19.gpx"]

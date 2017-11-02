@@ -23,7 +23,7 @@ I saw a MOOSE!!!!!!!!! It was massive, and a little intimidating. I frantically 
 
 Where I saw the moose was on a road heading into the national park. It was an appalling road. They'd just put new stones down and it dangerous as anything for the bike. Sliding side ways continuously. Luckily a guy with a trailer came passed and saw I was struggling. He offered a lift which was great. He took me to the spot I was thinking of camping but it still means I have 15km of it in the morning. Also I kinda wanted to get out the car. He offered to let me camp at his summer house, but he already stank of booze and had a 12 pack in the front of the car. I took a quick guess and assumed we may struggle to get on. Even if he managed to keep the car on the road. 
 
-[![image]({{ base }}/assets/images/1050.jpg)]({{ base }}/assets/images/1050.jpg)
+[![image]({{ site.url }}/assets/images/1050.jpg)]({{ site.url }}/assets/images/1050.jpg)
 
 
 
@@ -31,5 +31,5 @@ So lastly, I had a hell of a hike to get into the camping spot I wanted. In the 
 
 I also decided to try a alterative way of putting up my tent tonight. See the picture. 
 
-[![image]({{ base }}/assets/images/1051.jpg)]({{ base }}/assets/images/1051.jpg)
+[![image]({{ site.url }}/assets/images/1051.jpg)]({{ site.url }}/assets/images/1051.jpg)
 [sgpx gpx="/gpxFiles/2015-09-15_07-50-45.gpx"]

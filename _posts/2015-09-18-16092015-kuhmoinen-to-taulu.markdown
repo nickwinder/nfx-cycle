@@ -23,7 +23,7 @@ After all of that though I was so tired. Even thought I had a noddle stop half w
 
 I decided to get to the nearest laavu (see picture , I now know the name for them) I could. This was about 35km away, also the route tried to take me off the main road, but I wasn't going to risk losing the smooth tarmac again. I just put my head done and cycled.
 
-[![image]({{ base }}/assets/images/1052.jpg)]({{ base }}/assets/images/1052.jpg)
+[![image]({{ site.url }}/assets/images/1052.jpg)]({{ site.url }}/assets/images/1052.jpg)
 
 
 

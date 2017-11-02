@@ -14,7 +14,7 @@ categories:
 Nothing much to report this week, as it's been mainly work. We're really getting into the swing of picking now, and starting to enjoy the job. Sadly, we've had to have a few days off due to rain again, but it looks good for the start of next week. 
 
 Our only trip out was to Wanaka. We hit this place when there was a air show on, so there were so many people around, although the glorious weather was a great backdrop to the old planes. My foot was hurting a bit too much for a walk, but Ashley still did a quick one, which had views over the lake. It really is a nice place. 
-![Image]({{ base }}/assets/images/8.jpg)
+![Image]({{ site.url }}/assets/images/8.jpg)
 
 Work has been treating us really well this week, putting on lunch one time and offering coffee, cake and even wine on occasions. Certainly is a better place than others we have heard of.
 

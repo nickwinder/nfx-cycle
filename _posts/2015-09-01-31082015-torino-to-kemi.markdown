@@ -16,7 +16,7 @@ Short/rest day today. I was going to spend 2 nights on the campsite but I couldn
 I had a quick potter into the town centre. One shopping centre looking over IKEA. That's about it. So I decided just to get on the bike and go super easy, to see where it got me. 
 I got to Kemi, which is the next little city up here. Yet again it didn't seem like it had much going for it, a couple of small shops and a station. The promenade was nice but it reminded me of Hornsea too much. There was a campsite near the city centre, so I decided to see if it was any cheaper than the night before. I got there and everything was closed up. I found a sign that said '31/08', I assume that means end of the season. At first I thought great a whole campsite to myself, so I went on search of food. I went back to the campsite to find the local youth hot spot seemed to be the small road ending next to the site, I made the quick decision that I did not want to compete with them all night, so I scarped.
 
-[![image]({{ base }}/assets/images/1022.jpg)]({{ base }}/assets/images/1022.jpg)
+[![image]({{ site.url }}/assets/images/1022.jpg)]({{ site.url }}/assets/images/1022.jpg)
 
 
 

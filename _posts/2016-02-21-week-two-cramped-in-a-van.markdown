@@ -14,7 +14,7 @@ categories:
 As I finished last week, we were travelling up to my friends. Unbeknownst to us it was not near the centre of Warkworth even though the address says Warkworth. It was in the middle of nowhere. We drove down some of our first windy gravel track roads , which rattled the hell out of our new van.Â 
 
 
-[![image]({{ base }}/assets/images/1078.jpg)]({{ base }}/assets/images/1078.jpg)
+[![image]({{ site.url }}/assets/images/1078.jpg)]({{ site.url }}/assets/images/1078.jpg)
 
 
 
@@ -28,7 +28,7 @@ The next few days were mostly driving, heading up and down coves every 10 minute
 If anyone been to Vienna you may recognise this architecture.Â 
 
 
-[![image]({{ base }}/assets/images/1079.jpg)]({{ base }}/assets/images/1079.jpg)
+[![image]({{ site.url }}/assets/images/1079.jpg)]({{ site.url }}/assets/images/1079.jpg)
 
 
 
@@ -37,7 +37,7 @@ Hundertwasser was his name. If your interested Google him.
 We also did a bit of caving. These were completely open and you had to wade your way through for quite a bit of the way. Also, it was important to remember the way back! As we realises half way into the first cave.
 
 
-[![image]({{ base }}/assets/images/1080.jpg)]({{ base }}/assets/images/1080.jpg)
+[![image]({{ site.url }}/assets/images/1080.jpg)]({{ site.url }}/assets/images/1080.jpg)
 
 
 
@@ -46,7 +46,7 @@ And then the rain came...... So it's true. The rain is different here. It went o
 One of or rainy days was spent at Waitangi treaty grounds. This is the grounds where the basis of the country was born. An agreement between the Maori and the British Empire, which seemed to have come under threat and ignored a lot since 1840 when it was signed by many Maori leaders and British ambassadors.
 
 
-[![image]({{ base }}/assets/images/1081.jpg)]({{ base }}/assets/images/1081.jpg)
+[![image]({{ site.url }}/assets/images/1081.jpg)]({{ site.url }}/assets/images/1081.jpg)
 
 
 

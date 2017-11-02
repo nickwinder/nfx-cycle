@@ -21,6 +21,6 @@ I've just clocked over 1000 miles for this trip, which sounds pretty good for ju
 
 Nothing much more to report, but I have one question for you Scandinavians. What on earth is the shower head in the toilets for? 
 
-[![image]({{ base }}/assets/images/1034.jpg)]({{ base }}/assets/images/1034.jpg)
+[![image]({{ site.url }}/assets/images/1034.jpg)]({{ site.url }}/assets/images/1034.jpg)
 
 [sgpx gpx="/gpxFiles/2015-09-09_08-29-42.gpx"]

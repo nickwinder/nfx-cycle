@@ -19,8 +19,8 @@ Piha was the destination in mind. It is a surf town about 1 hour from Auckland, 
 
 Having nowhere to stay and no free campsite near by, we decided to chance it at the beach car park. Its pretty much out of season now so all was pretty quiet. We did wake up watching the morning surfers with their girly hair. 
 We headed for a small walk to a water fall in the morning, then set off to Auckland.
-[![PANO_20160301_104236]({{ base }}/assets/images/1084.jpg)](http://www.nfxcycle.com/wp-content/uploads/2016/03/PANO_20160301_104236.jpg)
-[![IMG_20160301_104928]({{ base }}/assets/images/1085.jpg)](http://www.nfxcycle.com/wp-content/uploads/2016/03/IMG_20160301_104928.jpg)
+[![PANO_20160301_104236]({{ site.url }}/assets/images/1084.jpg)](http://www.nfxcycle.com/wp-content/uploads/2016/03/PANO_20160301_104236.jpg)
+[![IMG_20160301_104928]({{ site.url }}/assets/images/1085.jpg)](http://www.nfxcycle.com/wp-content/uploads/2016/03/IMG_20160301_104928.jpg)
 
 Ashley's uncle was on a cruise ship heading for Auckland on the Friday. It seemed like a great opportunity to catch up in foreign lands. This did mean we had 3 nights to spend in Auckland, and the cheap skates we are , we search for people we knew in Auckland. It was pretty good, because I got to see a friend from Whistler (4-5 years ago!), and we also stayed with one of Ashley's friends.
 
