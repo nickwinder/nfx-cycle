@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=69
 slug: 26082015-gallivare-to-lansjarv
 title: 26/08/2015 GÃ¤llivare to LansjÃ¤rv
 wordpress_id: 69
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Happy birthday to me. Yes it's my birthday, that's enough about that.

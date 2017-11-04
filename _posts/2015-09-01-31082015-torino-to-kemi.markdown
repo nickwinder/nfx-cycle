@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=100
 slug: 31082015-torino-to-kemi
 title: 31/08/2015 Torino to Kemi
 wordpress_id: 100
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Short/rest day today. I was going to spend 2 nights on the campsite but I couldn't justify the 18 euro price tag. I did stick around as long as possible to get my moneys worth though. 

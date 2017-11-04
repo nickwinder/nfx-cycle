@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=44
 slug: 21082015-nordfjosbutn-to-settermoen
 title: 21/08/2015 Nordfjosbutn to settermoen
 wordpress_id: 44
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I started the day off early just to make sure no one saw me on the beach (and not to get flooded out by the incoming tide). Just had a few nibbles and I was off. Today, I was heading for as close to Narvik as I could get so I would be able to cross into Sweden tomorrow. Easier said than done though, its quite a way. 

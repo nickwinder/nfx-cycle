@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=205
 slug: 18092015-lahti-to-vuolenkoski
 title: 18/09/2015 Lahti to Vuolenkoski
 wordpress_id: 205
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I was pretty lost today, I just couldn't decide what I wanted to do. Head off and get to the Russian boarder. Do a little less and go and see a UNESCO site. Stay in Lahti somehow. 

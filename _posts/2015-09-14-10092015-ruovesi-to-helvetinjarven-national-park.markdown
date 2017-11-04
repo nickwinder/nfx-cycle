@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=158
 slug: 10092015-ruovesi-to-helvetinjarven-national-park
 title: 10/09/2015 Ruovesi to HelvetinjÃ¤rven national park
 wordpress_id: 158
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Pretty much a rest day today, even though the camp site wasn't the best it was still really good to just start everything slowly. 

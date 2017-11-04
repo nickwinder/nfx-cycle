@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=200
 slug: 16092015-kuhmoinen-to-taulu
 title: 16/09/2015 Kuhmoinen to Taulu
 wordpress_id: 200
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I realised I over estimated the hike a little yesterday, still carrying everything on my back/head/shoulders made me twice as heavy. It was bound to be hard.

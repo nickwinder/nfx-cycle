@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=335
 slug: week-6-in-wellington-willing-to-work
 title: 'Week 6 : In Wellington Willing to Work'
 wordpress_id: 335
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 [embed caption="false"]![Image]({{ site.url }}/assets/images/0.jpg)[/embed]

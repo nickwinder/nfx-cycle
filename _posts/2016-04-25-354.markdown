@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=354
 slug: '354'
 title: 'Week 11 : No Longer Nomad'
 wordpress_id: 354
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 We finished our stay in Arrowtown this week, hoping that the cleaning we did was good enough and they do not notice the oil drips from the car on the driveway. One thing that we can be certain of is that we did not kill the cat. Although the moaning and wining at 1:30am one morning nearly resulted in that. 

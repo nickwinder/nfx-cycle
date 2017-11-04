@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=107
 slug: 01092015-kemi-to-oulu
 title: 01/09/2015 Kemi to Oulu
 wordpress_id: 107
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 A new month, and a new record distance. I didn't mean to go so far, but the riding was just nice..... And even easy! 

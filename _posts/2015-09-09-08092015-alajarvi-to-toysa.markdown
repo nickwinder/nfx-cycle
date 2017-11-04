@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=147
 slug: 08092015-alajarvi-to-toysa
 title: 08/09/2015 AlajÃ¤rvi to TÃ¶ysÃ¤
 wordpress_id: 147
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 It was a chilly wet morning in my cramped camping space, so I tried to stick around and let the tent dry out a little. I had some breakfast there in another little compartment I made. I had a bedroom, garage and now a kitchen. 

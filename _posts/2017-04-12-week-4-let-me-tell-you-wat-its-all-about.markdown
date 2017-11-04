@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=437
 slug: week-4-let-me-tell-you-wat-its-all-about
 title: Week 4 - Let me tell you Wat it's all about
 wordpress_id: 437
-categories:
-- South East Asia
+tags: [
+southeastasia]
 ---
 
 We're on the move again and this time it's to another country. We flew into Phnom Penh (we now know you say it Pnom Pen), the capital of Cambodia.  We've heard it is a little further behind in terms of poverty and living conditions, so it was interesting to see what we would experience and how we would feel about this.  When we first got into the airport we had to get our visa, we handed our passports over and we could only hope they would give them back and allow us in. $30 dollars each and 20 mins later we could head through customs and find a taxi.  We jumped in a taxi and gave the directions for our hotel, but we were just in time for rush our.  The traffic was crazy, and I don't just mean busy, I mean bikes and tuk-tuks everywhere and hurtling in ever direction. I just do not understand how a road system can work like this.  But if you look at the road traffic accident stats you start to understand.  After 50 minutes, 20 of which were at a stand still, we got to our hotel. The sun had already gone down so we couldn't see too much of the streets, but the first thing that stood our was the rubbish. Piles on open rubbish from food waste to plastics just left in piles on the pavement. This is just something we had to get used to here.  Our hotel was ok, but you do not get as much for your money as you do in Thailand.  Our room had no window, pretty basic but we didn't need much more.  We had enough to time to go for a bite to eat, which was a bit different but still pretty good and then it was bed time.

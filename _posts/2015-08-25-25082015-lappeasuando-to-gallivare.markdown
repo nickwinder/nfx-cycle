@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=65
 slug: 25082015-lappeasuando-to-gallivare
 title: 25/08/2015 Lappeasuando to GÃ¤llivare
 wordpress_id: 65
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Early get up today, no reason, just woke up early. Excited for the day ahead of me, stay tuned for squirrel gate and crazy old man takes me everywhere. 

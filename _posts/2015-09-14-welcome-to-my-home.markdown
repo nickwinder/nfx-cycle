@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=178
 slug: welcome-to-my-home
 title: Welcome to my home
 wordpress_id: 178
-categories:
-- info
+tags: [
+info]
 ---
 
 I thought it's about time that I should introduce you to my home for the trip. It's a little cramped and you'd struggle to swing a cat. But its enough. 

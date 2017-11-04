@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=59
 slug: 24082015-kiruna-to-lappeasuando
 title: 24/08/2015 Kiruna to lappeasuando
 wordpress_id: 59
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I decided to have a lazy morning seen as the last 2 days have been a bit hectic. So I went into the town centre (well what there was of it) and had wonder round. In the end I just went to the super market really. 

@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=394
 slug: week-6-part-2-car-dealer
 title: Week 6 - Part 2 - Car Dealer
 wordpress_id: 394
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 The main focus of the next few weeks is really to sell the van and live as cheaply as possible. The main reason for this is because the promise of jobs never came through. Apparently the guy who had the contacts died, which is a strange situation if it is true as we meet him a few days previously.

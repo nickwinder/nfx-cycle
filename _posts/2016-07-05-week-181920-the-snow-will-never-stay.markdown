@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=373
 slug: week-181920-the-snow-will-never-stay
 title: 'Week 18/19/20 : The Snow Will Never Stay'
 wordpress_id: 373
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 It seems as if the snow will never stay. The ski fields are in a bit of a dire state, with only one of them remaining open. This means that it is packed, therefore I've decided to veto snowboarding until the weather picks up. 

@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=364
 slug: week-1415-the-snow-is-falling
 title: 'Week 14/15 : The Snow is Falling'
 wordpress_id: 364
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 The temperatures have finally started to drop and the snow is falling on the mountains. But this doesn't stop us getting out walking and running. It just makes for better scenery.  Although we have found that the place we are renting is pretty cold. There's a fine balance between being cold and not spending too much money on heating.  To help with this issue we've taken a trip to the charity shop to find some winter woollies. 

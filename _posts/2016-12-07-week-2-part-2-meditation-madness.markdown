@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=380
 slug: week-2-part-2-meditation-madness
 title: Week 2 - Part 2 - Meditation Madness
 wordpress_id: 380
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 As I said in the last post we were heading to a Work Away place to find a bit of shelter.  Little did we know it was going to be a weird experience.

@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=224
 slug: 20092015-jaala-to-valkeala
 title: 20/09/2015 Jaala to Valkeala
 wordpress_id: 224
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I woke up bright and early and felt great. However much I attempted to get back to sleep, my body was having none of it. Instead I laid there for about an hour until I finally decided it was late enough to get up. 

@@ -8,8 +8,7 @@ slug: week-6-end-of-the-cheap-living
 title: Week 6 - End of the Cheap Living
 description: The end of south east Asia for us. The last week in Vietnam
 wordpress_id: 445
-categories:
-- South East Asia
+tags: [southeastasia]
 ---
 
 This is pretty much our final week in South East Asia, we'll be up in Ha long bay then traveling down to Da Nang where Ashley's friends are currently teaching. So first we took the journey over from Hanoi to Cat Ba island. This is a famous tourist site renowned for it's natural beauty. We had a bus, a boat and another bus to catch, after being a little late it was all surprisingly easy for Vietnam. It as great to get onto the island. I feel it had been so long since we had seen any spectacular scenery. The peaks where very pronounced full with tree coverage, we zig zagged over the hills all the way to the east side of the island.

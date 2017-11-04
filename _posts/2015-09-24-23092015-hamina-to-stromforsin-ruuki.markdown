@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=254
 slug: 23092015-hamina-to-stromforsin-ruuki
 title: 23/09/2015 Hamina to StrÃ¶mforsin Ruuki
 wordpress_id: 254
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I'm starting to feel a little ill at the moment and I'm worried that I'm not getting enough fruit and veg down me. So I went to the store and bought lots of veg to try and rustle something up. It cost a bit much, but it was really nice to have something different from rice and beans.

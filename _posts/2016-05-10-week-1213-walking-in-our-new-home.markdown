@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=359
 slug: week-1213-walking-in-our-new-home
 title: 'Week 12/13 : Walking In Our New Home'
 wordpress_id: 359
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 Many of our days at the moment are full of the boring working hours which are necessary to live in a place like this. But hopefully the following pictures show why we do it. Views only 10 mins away from us are stunning. Here's a little photo reel of our walks the last couple of weeks, some hard, some easy.

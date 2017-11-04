@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=39
 slug: 20082015-tromso-to-nordfjosbutn
 title: 20/08/2015 tromso to nordfjosbutn
 wordpress_id: 39
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I had to start the day out with some last minute purchases, but I decided to have a lie in because I'd been kept up a bit of the night. Someone was cooking at 2:30am!?!?Â  And the kitchen was right outside my door. 

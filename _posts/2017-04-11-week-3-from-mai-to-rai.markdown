@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=434
 slug: week-3-from-mai-to-rai
 title: Week 3 - From Mai to Rai
 wordpress_id: 434
-categories:
-- South East Asia
+tags: [
+southeastasia]
 ---
 
 There was a few things we missed in Chiang Mai the first time round, so we made sure that we got to all the attractions before we left. One of these was the Wat perched up on top of the hill over looking Chiang Mai.  The only way to get up this big hill was to jump in the back of Chaing Mai's famous red trucks. Essentially a black cab of Chaing Mai, but it's a pick-up truck with a cover over the top. When we got to the pickup point we had to wait around until there was 10 people to fill the truck, which only meant around a 20 minute wait. Luckily we didn't fly out the back of the truck and get sick on the way up the hill so we were primed to see this great Wat. It was pretty busy as you'd expect with markets down at the bottom of 100 or so stairs. Climbing to the top there was a sign directing tourist to the ticket area, right next to the toilets for Men, Women and Monks. I was so tempted to jump into the Monks toilets just to see what was different.  The temple was pretty gold, and very extravagant, but a little smaller than we expected it to be.  The views were pretty good to see a good overview of the city, but still a little hazy to really get a good picture. We hung around for a bit and headed back down to the market to have a few snacks and a coffee before we left.  I can see why people are told to go up there but I still believe the better Wats are in town.

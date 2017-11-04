@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=409
 slug: week-2-becoming-a-local
 title: Week 2 - Becoming a Local
 wordpress_id: 409
-categories:
-- Japan
+tags: [
+Japan]
 ---
 
 We started the week by travelling from the snow in Takayama to relative warmth of Nagoya. It's amazing how 90 miles can make a difference. We were heading for our first couch surfing host of Japan, obviously a little apprehensive to see who we would be residing with.  We managed to fight our way through the crowd's, somehow jump on the correct trains (there were lines for different trains on a single platform!) and got to Daidocho station and we had a super happy face to meet us. It turn out our host was as friendly as friendly could be and really welcoming.

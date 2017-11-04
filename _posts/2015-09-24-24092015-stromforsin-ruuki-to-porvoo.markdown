@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=259
 slug: 24092015-stromforsin-ruuki-to-porvoo
 title: 24/09/2015 StrÃ¶mforsin Ruuki to Porvoo
 wordpress_id: 259
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 One thing driving me today, was the fact that at the end of the day I would get a shower. 7 days since my last one. Pretty stinky. I was heading for Porvoo where I'd organised to stay at a WS host and I couldn't wait to get there. 

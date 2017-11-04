@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=165
 slug: 11092015-helvetinjarven-national-park
 title: 11/09/2015 HelvetinjÃ¤rven national park
 wordpress_id: 165
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Today was my first running day. I decided before I set out on this trip I wanted to do a bit of trail running in different places. But before now I was a little worried my legs were too fatigued to run.

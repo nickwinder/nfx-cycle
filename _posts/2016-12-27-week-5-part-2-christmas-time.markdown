@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=390
 slug: week-5-part-2-christmas-time
 title: Week 5 - Part 2 - Christmas Time
 wordpress_id: 390
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 For the start of the week we stayed around the sunny Nelson area. We had a trip planned to kayak up the coast of the Abel Tasman and a little bit of sight seeing and walking along the way.

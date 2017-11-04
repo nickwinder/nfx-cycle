@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=284
 slug: 06102015-lilli-to-ligatne
 title: 06/10/2015 Lilli to LÄ«gatne
 wordpress_id: 284
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Let's start by saying, it was bitterly cold this morning! It must have been below 0 as I put my camp mat out to dry (no idea how it got wet) and it started to freeze. I must say I wasn't ready for this, I knew it was cold as I was up most of the morning trying to find things to throw on top of me to warm me up.

@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=110
 slug: pack-list
 title: Pack list
 wordpress_id: 110
-categories:
-- info
+tags: [
+info]
 ---
 
 So this is where I talk about my pack list. Some of which I'm sure will change and maybe even a few additions maybe made. Feel free to look around and ask questions, I'll try and amend the post with more useful information.

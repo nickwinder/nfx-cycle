@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=377
 slug: week-1-part-2-rainy-days-in-nz
 title: Week 1 - Part 2 - Rainy days in NZ
 wordpress_id: 377
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 We didn't pick the best week to continue our travels. We were hounded by rain, hail and crazy winds. We still tried to find things we could do despite the weather though. Our first day was mainly travelling over to the east coast towards Dunedin and Oamaru, but along the way we decided to make a quick stop off in Clyde to see the dam that was install which flooded a huge area around Cromwell. The rest was mainly driving through deserted roads which felt so odd considering we'd been in busy Queenstown for the previous 8 months.

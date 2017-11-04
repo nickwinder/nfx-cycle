@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=405
 slug: week-1-attack-of-the-samurai-sickness
 title: Week 1 - Attack of the samurai sickness
 wordpress_id: 405
-categories:
-- Japan
+tags: [
+Japan]
 ---
 
 Japan is finally here for us. It's been a long time waiting but we are finally in Japan. Ready for whatever culture shock it'd like to throw at us. But first impressions are really great and friendly, with the odd comical moment for a mere westerners like us. We arrived into Tokyo and the airbnb host had offered to pick us up at 10:30pm which was really nice of him.  The first airbnb we were staying at was a room above a bar. We really splashed out on this one at $15 a night ? , I'm sure that's the cheapest you'll find in Tokyo.  The room was pretty good, and it threw us in right at the deep end. Sleeping on the tamami floors with thin futons, it doesn't get more Japanese. One rather weird part to the place was the toilet situation, or lack of it. We had to go down to the bar for the toilet, which strangely opening 8pm - 8am.  This did mean the late night wee now got a bit more interesting. But again I refer back to the price. You cannot beat it.

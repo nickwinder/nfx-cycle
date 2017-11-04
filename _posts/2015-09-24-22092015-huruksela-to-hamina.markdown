@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=240
 slug: 22092015-huruksela-to-hamina
 title: 22/09/2015 Huruksela to Hamina
 wordpress_id: 240
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I woke up and did a little reading as I've done most days. I started to get my self sorted and changed just before 8am I heard a guys voice. "Morning!" (In Finnish). Wooo, I thought this was going to be a quiet spot. Lucky I'd just got my shorts on. The guy had come to start a fire, because 15 of his mates were coming down for breakfast. He didn't speak much English, but I got that much. I didn't stick around long to find out what he actually said. 

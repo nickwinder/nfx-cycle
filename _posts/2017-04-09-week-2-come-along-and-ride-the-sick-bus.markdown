@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=431
 slug: week-2-come-along-and-ride-the-sick-bus
 title: Week 2 - Come along and ride the sick bus!
 wordpress_id: 431
-categories:
-- South East Asia
+tags: [
+southeastasia]
 ---
 
 We started our week by making the 3ish hour journey up to a northern town called Pai.  I say ish, because this is highly dependant drivers scale of crazy driving. It's a common game to count down the 762 corners to Pai, but after the first few you are just ensuring that you are still on your own seat and also keeping the sick down.  Ashley was in the back, which was much worse, you could tell by her face when she got out.  Anyway our Thai version of Lewis Hamilton got us to Pai in under 3 hours, which I'm sure is a record, so he'll be happy.  We made it alive.

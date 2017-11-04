@@ -8,8 +8,8 @@ slug: week-5-crazy-bikes-in-the-city
 title: Week 5 - Crazy bikes in the city
 description: Our last country in South East Asia is Vietnam. We'll be mostly exploring the north of the country.
 wordpress_id: 441
-categories:
-- South East Asia
+tags: [
+southeastasia]
 ---
 
 We finished our week in Siem Reap with a little more Wat exploring. Visiting the few that we missed the previous days including the one that was used in the filming of Tomb Raider.

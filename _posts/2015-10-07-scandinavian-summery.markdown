@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=269
 slug: scandinavian-summery
 title: Scandinavian summery
 wordpress_id: 269
-categories:
-- info
+tags: [
+info]
 ---
 
 With just under 2500km done and 170 hours of riding I have finished my leg in Scandinavia. It proved to be a great place for a cycle tour and if you are willing to rough it, it's not as expensive as everyone makes it out to be. 

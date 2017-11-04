@@ -8,8 +8,8 @@ slug: week-2-too-much-play-makes-nick-a-sick-boy
 title: Week 2 - Too much play makes Nick a sick boy
 description: Moving from the Grand Canyon and heading north in to Utah
 wordpress_id: 453
-categories:
-- USA
+tags: [
+usa]
 ---
 
 We started out the traveling from the Grand Canyon up into Utah. The heat of day didn't really let off at all, even though we were gaining elevation again. At one point this week we were camping at 3000 meters and the lungs were the only indication of this. First we headed towards Bryce Canyon, which I didn't know too much about and hadn't even seen any pictures.  The night before we camped just out of the national park at Red Canyon,  aptly named due to the deep red sandstone walls surrounding us.  But to the list of worrisome animals, we added scorpions and rattle snakes, all part of the fun of camping I suppose.

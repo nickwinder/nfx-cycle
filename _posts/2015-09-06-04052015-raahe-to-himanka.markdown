@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=127
 slug: 04052015-raahe-to-himanka
 title: 04/09/2015 Raahe to Himanka
 wordpress_id: 127
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Yet again, I woke up to nice sunny weather. It really is amazing how lucky I've been with the sun shine and my beautiful tan lines are a tell tail sign for it. I didn't stick around too long, because I wanted to get to the next WS (warm showers). I'd be stay 2 nights at the next place, so a nice rest will be deserved after a long days ride. 

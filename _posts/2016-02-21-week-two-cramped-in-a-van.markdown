@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=308
 slug: week-two-cramped-in-a-van
 title: 'Week two : Cramped in a van'
 wordpress_id: 308
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 As I finished last week, we were travelling up to my friends. Unbeknownst to us it was not near the centre of Warkworth even though the address says Warkworth. It was in the middle of nowhere. We drove down some of our first windy gravel track roads , which rattled the hell out of our new van.Â 

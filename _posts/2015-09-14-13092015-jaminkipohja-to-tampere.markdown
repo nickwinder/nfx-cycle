@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=175
 slug: 13092015-jaminkipohja-to-tampere
 title: 13/09/2015 JÃ¤minkipohja to Tampere
 wordpress_id: 175
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 The wildlife woke me up sharp again this morning. Jumping around the trees, floor and tent. Yet again that stupid woodpecker. 

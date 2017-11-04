@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=344
 slug: week-7-a-long-way-south
 title: 'Week 7 : A Long Way South'
 wordpress_id: 344
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 We ended up taking the trip down the south Island to get work in the Queenstown area. This region has many Vineyards and therefore lots of work at grape picking time. Through my contact, we managed to get some picking jobs starting this week, so we can finally make a little bit of money back.

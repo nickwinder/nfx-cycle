@@ -8,8 +8,8 @@ slug: week-1-the-sunny-south
 title: Week 1 - The Sunny South
 description: The long road from Texas towards the mountains
 wordpress_id: 449
-categories:
-- USA
+tags: [
+usa]
 ---
 
 Starting on a new journey, but this time it's in one of our home countries. It's going to be pretty exciting for me as I've not explored much of the US and especially not many of the national parks. The other reason for this trip is to find an area we'd like to live. We've got a few places in mind, but it's certainly time to check out those and a few more.

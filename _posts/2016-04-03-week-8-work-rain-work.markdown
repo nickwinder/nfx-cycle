@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=346
 slug: week-8-work-rain-work
 title: Week 8 - Work, Rain, Work
 wordpress_id: 346
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 Nothing much to report this week, as it's been mainly work. We're really getting into the swing of picking now, and starting to enjoy the job. Sadly, we've had to have a few days off due to rain again, but it looks good for the start of next week. 

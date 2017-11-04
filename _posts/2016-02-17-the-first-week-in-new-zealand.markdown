@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=295
 slug: the-first-week-in-new-zealand
 title: The first week in New Zealand
 wordpress_id: 295
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 We landed on 4th February under a rather unexpected hot sun. I was sweating within a few seconds of being outside and my frail English skin was shouting no more! Apparently this is what we have to get used to in the north Island.Â 

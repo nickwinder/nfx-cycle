@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=141
 slug: 07092015-jakobstad-to-alajarvi
 title: 07/09/2015 Jakobstad to AlajÃ¤rvi
 wordpress_id: 141
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 We had to get up early today, because the WS host was starting her new job. Safe to say, she seemed a tad nervous, as anyone would. This meant I was on the road by 7:30am.

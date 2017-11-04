@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=54
 slug: 23082015-bjorkliden-to-kiruna
 title: 23/08/2015 bjorkliden to kiruna
 wordpress_id: 54
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I decided not to have a big plan as I didn't want to make the same mistake as yesterday. So I just start riding, and it was so easy! No idea why, but I knocked out 20km without even trying. What was going on? I had a stupid crazy hard day yesterday and then this. 

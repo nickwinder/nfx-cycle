@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=120
 slug: 03092015-oulu-to-raahe
 title: 03/09/2015 Oulu to Raahe
 wordpress_id: 120
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Yesterday, I decided to take a day off in Oulu, do a little sight seeing and have a rest in general. It turned out to be pretty good. I rode around the city a bit, went for a coffee and went to the Oulu history museum. So now I know a little more about the Finish history.

@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=369
 slug: week-1617-the-snappy-cold
 title: Week 16/17 The Snappy Cold
 wordpress_id: 369
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 So the cold has finally hit. It's been pretty chilly as of late and the mountains are ripe for riding. But no wait, apparently that's not how it works here.  Suddenly a warm English Autumn day comes our way, and washes away all the snow! Nooo Whyyyy! So that has put a dampener on the opening of the first ski hills. 

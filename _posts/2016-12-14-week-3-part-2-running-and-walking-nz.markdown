@@ -7,8 +7,7 @@ link: http://www.nfxcycle.com/?p=383
 slug: week-3-part-2-running-and-walking-nz
 title: Week 3 - Part 2 - Running and Walking NZ
 wordpress_id: 383
-categories:
-- New Zealand
+tags: [newzealand]
 ---
 
 After a long while living near one of the great walks of New Zealand we finally got the opportunity to do it. The Routeburn is a 31km track running from the Fjordland area all the way over to area surrounding Queenstown. As it's a one way track we had to drop off our car at one end and get a lift round to the start. After the 3.5 hour drive to the divide (start) we were ready to get underway. Sadly it just started raining, but we still had high hopes. It started with a gentle incline which was easily runnable and not too technical. But still the clouds would not lift, this didn't matter too much as we were mainly in the trees.  We passed some fancy looking huts along the way, but we were doing this in one day, so straight passed them we went climbing all the way to the highest point on the track. Only after this point we started getting some views, the valley down towards the shelter at the end was amazing. Tall peaks towered up separated by tarns and rivers. It was a tough run down from here, with plenty of large lose rock turning your ankles on every step. We headed into our last 5km and both of our knees just died. They were so bad we had to walk the rest, even though the track was the easiest part of the whole day. In the end we got through in just under 7 hours. Maybe it wasn't the fastest time but we sure enjoyed it. And we'd love to do it again.

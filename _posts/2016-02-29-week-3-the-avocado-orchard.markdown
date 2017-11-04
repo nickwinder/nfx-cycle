@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=311
 slug: week-3-the-avocado-orchard
 title: 'Week 3 : The Avocado Orchard'
 wordpress_id: 311
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 To start this week, we were doing our last bit of tourist stuff up north. A trip down 90 mile beach. This perfect unbroken beach that actually runs for 55 miles (88km), which is also a national highway! Before you think it though, we are not stupid enough to take our camper on there. We booked a tour which took us all the way to Cape Reinga and then travelled all the way back down 90 mile beach. Is was good fun and saved our wheels a pointless 200km trip.

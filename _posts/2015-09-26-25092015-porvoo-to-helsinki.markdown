@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=264
 slug: 25092015-porvoo-to-helsinki
 title: 25/09/2015 Porvoo to Helsinki
 wordpress_id: 264
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 This morning I had a quick look Porvoo with the 2 other cyclist that turned up at the WS host last night. Sadly they were heading the other way, but I can say I cycled for around 800m with other cyclist. The town had some all the really old wooden houses still intact, these lined the narrow cobbled streets making a very quaint little setting. This is also the first time I can say, sorry I have no photos. 

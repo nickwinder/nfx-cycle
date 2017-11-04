@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=170
 slug: 12092015-helvetinjarven-to-jaminkipohja
 title: 12/09/2015 HelvetinjÃ¤rven To JÃ¤minkipohja
 wordpress_id: 170
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Another group turned up over night. Who knows when and how they got here, but its not the quiet place I had yesterday. So I had a lazy morning and set off at 11am. 

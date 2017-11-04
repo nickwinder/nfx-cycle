@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=136
 slug: 06082015-himanka-to-jakobstad
 title: 06/09/2015 Himanka to Jakobstad
 wordpress_id: 136
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Another rest day yesterday and it was quite a interesting one. The ride today was not quite as interesting and wet again..... Oooo dear. Let's hope I don't have too much of that. 

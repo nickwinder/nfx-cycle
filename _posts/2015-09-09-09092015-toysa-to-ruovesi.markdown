@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=152
 slug: 09092015-toysa-to-ruovesi
 title: 09/09/2015 TÃ¶ysÃ¤ to Ruovesi
 wordpress_id: 152
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Today I wanted to get close to the national park so I can chill tomorrow then so a bit of running over the next few days. So an early start was in order. 

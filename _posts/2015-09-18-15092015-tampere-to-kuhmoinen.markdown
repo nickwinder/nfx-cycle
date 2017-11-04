@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=194
 slug: 15092015-tampere-to-kuhmoinen
 title: 15/09/2015 Tampere to Kuhmoinen
 wordpress_id: 194
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Setting off this morning was a little tough, I'm feeling at the moment I need a full week off. But still over a week and half until Ashley arrives I'll have to wait it out. But I can't wait. So I've decided to head to Lahti , where a friend of mine is staying and then from there I'll take a check on time and see if it would be possible to get out to the Russian boarder. From different sources I've been reading, it seems this is the place to cycle along with the south coast, a route called the kings road. 

@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=190
 slug: 14092015-tampere
 title: 14/09/2015 Tampere
 wordpress_id: 190
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Usually on a rest day I bundle the update into the next riding day, but there was a fair bit going on, so this is purely about the day in Tampere.

@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=289
 slug: 07102015-ligatne-to-riga
 title: 07/10/2015 LÄ«gatne to RÄ«ga
 wordpress_id: 289
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 So that's it, my last day of riding in the Baltic countries. 

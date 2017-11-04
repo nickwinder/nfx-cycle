@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=279
 slug: 05102015-karu-to-lilli
 title: 05/10/2015 KÃ¤ru to Lilli
 wordpress_id: 279
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 On a mission to do a good distance today, I set off as early possible. I had to get back into the morning routine of cooking and packing away, which was strange after a week of lazy mornings. 

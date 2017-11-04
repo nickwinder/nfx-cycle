@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=387
 slug: week-4-part-2-slowing-down
 title: Week 4 - Part 2 - Slowing Down
 wordpress_id: 387
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 After all the walking that we'd been doing we had to slow down a little and rest our bodies. But this only came after a over night walk to a hut out in the mountains of the west coast. This was the Welcome Flat Hut which is along the Copland Track. This was long used as a link between the valleys dropping into the Mt Cook area across to the West coast.  The walk weaved along the side of the Copland river which was fed from many streams and rivers flowing down from the mountains. This also meant that there was many river crosses with some amazing rope bridges!

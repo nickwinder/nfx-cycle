@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=317
 slug: week-4-more-auckland
 title: 'Week 4 : More Auckland'
 wordpress_id: 317
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 This week mainly consisted of visiting people. So we said we knew nobody in New Zealand when we came here, but that is plainly not true.

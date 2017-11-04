@@ -5,10 +5,10 @@ date: 2017-02-27 07:42:12+00:00
 layout: post
 link: http://www.nfxcycle.com/?p=412
 slug: week-3-japanese-history-week
-title: Week 3 - Japanese History Week
+title: Week 3 Japan]ese History Week
 wordpress_id: 412
-categories:
-- Japan
+tags: [
+Japan]
 ---
 
 This week started up in Kobe. And the only reason I've heard about Kobe before is because of the beef.  But we were pretty happy to find out there was more than just beef.  We had originally planned to explore the place for one day and then head out to a castle in near by Hemji. But because we enjoyed Kobe the first day we decided to stick around and see a little more on the second day.

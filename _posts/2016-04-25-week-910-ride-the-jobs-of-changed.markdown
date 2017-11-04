@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=348
 slug: week-910-ride-the-jobs-of-changed
 title: Week 9/10 - Ride the jobs of changed
 wordpress_id: 348
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 A lot has changed since the last update. We have changed location and jobs. We are also primed to move into a house share. 

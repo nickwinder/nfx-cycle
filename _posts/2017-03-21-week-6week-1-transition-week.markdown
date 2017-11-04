@@ -7,9 +7,7 @@ link: http://www.nfxcycle.com/?p=423
 slug: week-6week-1-transition-week
 title: Week 6/Week 1 - Transition week
 wordpress_id: 423
-categories:
-- New Zealand
-- South East Asia
+tags: [Japan,southeastasia]
 ---
 
 It's country transition week for us! We are swapping the cooler islands of Japan to the blazing hot area of South East Asia. Thailand is our first stop on this trip, this was an attempt to ease us into the hectic way of life.

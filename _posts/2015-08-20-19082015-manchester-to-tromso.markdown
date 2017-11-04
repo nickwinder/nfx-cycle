@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=33
 slug: 19082015-manchester-to-tromso
 title: 19/08/2015 Manchester to Tromso
 wordpress_id: 33
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I set out from Ashley's flat in Manchester at 9am. Riding to the airport has got to be one of the best ways possible. You don't have to worry about taxis, public transport, just your legs and your bike. 

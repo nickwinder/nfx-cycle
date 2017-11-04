@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=81
 slug: 28082015-nowhere-to-lulea
 title: 28/08/2015 nowhere to LuleÃ¥
 wordpress_id: 81
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 So we knew that the sun had to end at some point. And today was that day. I found out that when it rains, it rains...... I've seen better weather in the lake district. 

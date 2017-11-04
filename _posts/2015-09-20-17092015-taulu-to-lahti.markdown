@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=203
 slug: 17092015-taulu-to-lahti
 title: 17/09/2015 Taulu to Lahti
 wordpress_id: 203
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 Today's mission was to get to Lahti early so I could have a bit of rest before seeing my friend. I set out fairly early and took the west route into Lahti. I think the road I took should be marked as a cycle route. It was great. Rolling ups and downs and quiet small roads, what more could you want. 

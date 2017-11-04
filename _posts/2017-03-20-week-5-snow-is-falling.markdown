@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=420
 slug: week-5-snow-is-falling
 title: Week 5 - Snow is falling
 wordpress_id: 420
-categories:
-- Japan
+tags: [
+Japan]
 ---
 
 This week is all about snow!! We went boarding in Hokkido!

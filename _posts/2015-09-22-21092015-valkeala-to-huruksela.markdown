@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=233
 slug: 21092015-valkeala-to-huruksela
 title: 21/09/2015 Valkeala to Huruksela
 wordpress_id: 233
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 The main aim of today was to stay dry. It was forecast light rain all day, and up to now the weatherman is completely right. It's that wet rain that England has, soaks ya right through. 

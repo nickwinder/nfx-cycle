@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=72
 slug: 27082015-lansjarv-to-nowhere
 title: 27/08/2015 LansjÃ¤rv to nowhere
 wordpress_id: 72
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 This morning I had a rude awakening at 4:30. Some wild form decided to start sniffing around my bike and bags. What it didn't know, it was boobie trapped. Nothing could be moved without making a rattle. Crash bang wallop, it woke me up and galloped away. So that was me layed there for an hour wondering what on earth it could be.

@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=85
 slug: 29082015-lulea-to-vita
 title: 29/08/2015 LuleÃ¥ to Vita
 wordpress_id: 85
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 I popped out early morning to go and pick stuff up for pancakes. I thought I'd better repay the hospitality I'd been given some how. And what better way than pancakes. 

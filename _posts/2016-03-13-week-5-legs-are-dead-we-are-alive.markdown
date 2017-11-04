@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=323
 slug: week-5-legs-are-dead-we-are-alive
 title: 'Week 5 : Legs are Dead, We are Alive!'
 wordpress_id: 323
-categories:
-- New Zealand
+tags: [
+newzealand]
 ---
 
 This week was the week of hiking and climbing. Hence the title. It was a great introduction to the mountains of the North Island, and really reinforces the reasons why we are here. So this is going to be a quick review of the walks we've done.

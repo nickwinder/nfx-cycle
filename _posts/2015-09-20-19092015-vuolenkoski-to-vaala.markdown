@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=207
 slug: 19092015-vuolenkoski-to-vaala
 title: 19/09/2015 Vuolenkoski to Jaala
 wordpress_id: 207
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 After a long 10 hour sleep, you'd expect I'd be wide awake and ready to get moving. It seemed that this wasn't the case. I'm not entirely sure what had come over me but I was really lacking in energy. I popped to the shop near by to get some fruit and pasta down me, thinking I just needed food. This wasnt the case either. 

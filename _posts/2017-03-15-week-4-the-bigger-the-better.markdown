@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=417
 slug: week-4-the-bigger-the-better
 title: Week 4 - The bigger the better
 wordpress_id: 417
-categories:
-- Japan
+tags: [
+Japan]
 ---
 
 This week started with our final day in Kyoto. We were planning on going to Himeji castle, but we decided to put it off until the next day as we had a lot of time between couch surfing hosts. So we didn't end up doing too much, just the standard coffee shop (no I've still not found a good one here!), a bite to eat and a walk around the city. I now have a new favourite sweet also, we think it is called Moji. As with every other sweet here it is made of rice, and sweet red beans. But the one I like has green tea mixed into the rice mush stuff. The picture explains it a little better.

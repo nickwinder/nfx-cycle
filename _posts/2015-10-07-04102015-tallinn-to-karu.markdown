@@ -7,8 +7,8 @@ link: http://www.nfxcycle.com/?p=273
 slug: 04102015-tallinn-to-karu
 title: 04/10/2015 Tallinn to KÃ¤ru
 wordpress_id: 273
-categories:
-- Tour logs
+tags: [
+tourlogs]
 ---
 
 After a early wake up call to say goodbye to Ashley, it was time to get back on the road. I've got a better plan of where I am going now and it seems the weather will push me to ride longer days. Next week there is supposed to be lows of 2 Celsius in Tallinn so I need to get as far south as possible and quick. Looking in central Poland the temperatures seem lower than on the northern coast. This seems to work better with my route anyway, so I'll hug that coast all the way to Germany. Only then will I drop south a little more before getting into France. That's the general plan, but this all depends in how I survive this cold blast. 
