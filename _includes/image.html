@@ -1,5 +1,5 @@
-<a href="{{ base }}{% asset_path '{{ include.path-detail }}' %}"
-   data-rjs="{{base}}{% asset_path '{{ include.path-detail }}' %}"
+<a href="{{ site.baseurl }}{% asset_path '{{ include.path-detail }}' %}"
+   data-rjs="{{ site.baseurl }}{% asset_path '{{ include.path-detail }}' %}"
    class="fluidbox-trigger">
-  <img src="{{base}}{% asset_path '{{ include.path }}' %}" alt="{{ include.alt }}" />
+  <img src="{{ site.baseurl }}{% asset_path '{{ include.path }}' %}" alt="{{ include.alt }}" />
 </a>

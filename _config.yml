@@ -3,6 +3,7 @@
 name: NFX Tours
 paginate: 25
 url: https://nickwinder.github.io/nfx-cycle/
+baseurl: /nfx-cycle
 blog_theme: light # Or use dark
 
 # Optional settings
