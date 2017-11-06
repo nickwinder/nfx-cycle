@@ -2,7 +2,7 @@
 
 name: NFX Tours
 paginate: 25
-url: https://www.nfxcycle.com
+url: http://www.nfxcycle.com
 blog_theme: light # Or use dark
 
 # Optional settings
