@@ -1,20 +1,90 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>NFX Tours</title>
+    <description></description>
+    <link>http://www.nfxcycle.com</link>
+    <atom:link href="http://www.nfxcycle.com/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Week 2 - Too much play makes Nick a sick boy</title>
+        <description>Moving from the Grand Canyon and heading north in to Utah</description>
+        <pubDate>Mon, 03 Jul 2017 04:38:42 +0100</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-2-too-much-play-makes-nick-a-sick-boy</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-2-too-much-play-makes-nick-a-sick-boy</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Week 1 - The Sunny South</title>
+        <description>The long road from Texas towards the mountains</description>
+        <pubDate>Tue, 20 Jun 2017 18:21:43 +0100</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-1-the-sunny-south</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-1-the-sunny-south</guid>
+      </item>
+    
+      <item>
+        <title>Week 6 - End of the Cheap Living</title>
+        <description>The end of south east Asia for us. The last week in Vietnam</description>
+        <pubDate>Thu, 27 Apr 2017 12:11:32 +0100</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-6-end-of-the-cheap-living</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-6-end-of-the-cheap-living</guid>
+      </item>
+    
+      <item>
+        <title>Week 5 - Crazy bikes in the city</title>
+        <description>Our last country in South East Asia is Vietnam. We'll be mostly exploring the north of the country.</description>
+        <pubDate>Thu, 27 Apr 2017 11:48:54 +0100</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-5-crazy-bikes-in-the-city</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-5-crazy-bikes-in-the-city</guid>
+      </item>
+    
+      <item>
+        <title>Week 4 - Let me tell you Wat it's all about</title>
+        <description></description>
+        <pubDate>Wed, 12 Apr 2017 01:25:39 +0100</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-4-let-me-tell-you-wat-its-all-about</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-4-let-me-tell-you-wat-its-all-about</guid>
+      </item>
+    
+      <item>
+        <title>Week 3 - From Mai to Rai</title>
+        <description></description>
+        <pubDate>Tue, 11 Apr 2017 07:22:41 +0100</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-3-from-mai-to-rai</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-3-from-mai-to-rai</guid>
+      </item>
+    
+      <item>
+        <title>Week 2 - Come along and ride the sick bus!</title>
+        <description></description>
+        <pubDate>Sun, 09 Apr 2017 14:09:02 +0100</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-2-come-along-and-ride-the-sick-bus</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-2-come-along-and-ride-the-sick-bus</guid>
+      </item>
+    
+      <item>
+        <title>Week 6/Week 1 - Transition week</title>
+        <description></description>
+        <pubDate>Tue, 21 Mar 2017 14:11:50 +0000</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-6week-1-transition-week</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-6week-1-transition-week</guid>
+      </item>
+    
+      <item>
+        <title>Week 5 - Snow is falling</title>
+        <description></description>
+        <pubDate>Mon, 20 Mar 2017 13:49:21 +0000</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-5-snow-is-falling</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-5-snow-is-falling</guid>
+      </item>
+    
+      <item>
+        <title>Week 4 - The bigger the better</title>
+        <description></description>
+        <pubDate>Wed, 15 Mar 2017 13:30:01 +0000</pubDate>
+        <link>http://www.nfxcycle.com/posts/week-4-the-bigger-the-better</link>
+        <guid isPermaLink="true">http://www.nfxcycle.com/posts/week-4-the-bigger-the-better</guid>
+      </item>
+    
   </channel>
 </rss>

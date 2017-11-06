@@ -1,4 +1,0 @@
----
-slug: usa
-name: USA
----
